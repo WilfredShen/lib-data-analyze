@@ -192,8 +192,8 @@ course_id course_score
 
 ```
 2
-2018260103 软件1803 1
-2018260104 软件1804 1
+2020000101 Claz_A 1
+2020000102 Claz_B 1
 
 2
 Course_A Course_A 1 1 2
